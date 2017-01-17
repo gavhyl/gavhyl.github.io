@@ -1,0 +1,173 @@
+body {
+	width: 1000px;
+	background: url(img/hyrule-field.jpg) left top repeat;
+}
+#main-header {
+	position: relative;
+	width: 1500px;
+	border: solid black;
+	background-color: black;
+	border-radius: 25px;
+}
+
+/*Logo*/
+.logo {
+	height: 100px;
+	width: 100px;
+	border-radius: 100px;
+	border-color: yellow;
+	top: 15px;
+}
+
+
+
+
+/*Title*/
+
+#header-name {
+	font-size: 65px;
+	color: yellow;
+	padding: 15px;
+	margin: 8px 0px 0px 0px;
+	position: relative;
+	right: 25px;
+	left: 300px;
+	top: -15px;
+
+}
+
+
+
+/*Search*/
+#search {
+	float:right;
+	padding: 5px;
+	margin: 10px 10px 0px 0px;
+
+}
+
+
+/* Banner Section */
+#main-image{
+	float: left;
+	width: 700px;
+	height: 300px;
+
+}
+
+/* Welcome text*/
+
+
+
+
+/* Container for news*/
+#recent-news {
+	font-size: 24px;
+	position: relative;
+	top: 550px;
+	color: yellow;
+	background-color: black;
+	border-radius: 25px;
+}
+
+.product-article-thumbnail{
+	height: 100px;
+	width: 100px;
+	border-radius:25px;
+	left: 50px;
+
+}
+
+
+
+.products {
+	float: right;
+	position: relative;
+	left: 450px;
+	color: yellow;
+	font-size: 20px;
+	border: solid black;
+	background-color: black;
+	border-radius: 25px;
+	top: -15px;
+}
+/*character of the day*/
+.stuff {
+	position: absolute;
+	top: 140px;
+	left: 8px;
+	border: solid black;
+	border-radius: 25px;
+	width: 360px;
+	height: 550px;
+	background-color: black;
+	
+}
+figcaption {
+	position: absolute;
+	float: left;
+	left: 40px;
+	top: 15px;
+	font-size: 20px;
+	color: yellow;
+}
+#character-of-day {
+	height: 300px;
+	width: 200px;
+	position: absolute;
+	left: 75px;
+	bottom: 175px;
+}
+#character {
+	position: absolute;
+	float: left;
+	font-size:;
+	left: 0px;
+	bottom: 50px;
+	color: yellow;
+	
+}
+
+
+
+
+/*main*/
+aside {
+	float: left;
+	position: relative;
+	top: 80px;
+	border: solid black;
+}
+
+/*footer*/
+footer {
+	clear: both;
+	width: 150%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	border: solid black;
+	border-radius: 25px;
+	color: yellow;
+	background-color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
