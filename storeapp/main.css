@@ -1,12 +1,12 @@
 body {
-	width: 1000px;
+	width: 100%;
 	background: url(img/hyrule-field.jpg) left top repeat;
 }
 #main-header {
 	position: relative;
-	width: 1500px;
+	width: 100%;
 	border: solid black;
-	background-color: black;
+	background-color:;
 	border-radius: 25px;
 }
 
@@ -142,7 +142,7 @@ aside {
 /*footer*/
 footer {
 	clear: both;
-	width: 150%;
+	width: 100%;
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
 	border: solid black;
