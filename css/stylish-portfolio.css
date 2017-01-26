@@ -231,7 +231,7 @@ hr.small {
 
 /* Map */
 
-.map {
+/*.map {
     height: 500px;
 }
 
@@ -244,7 +244,14 @@ hr.small {
 .map iframe {
     pointer-events: none;
 }
-
+*/
+#contact-form {
+    border: solid black;
+    background-color: powderblue;
+    position: relative;
+    width: 165%;
+    left: 110px;
+}
 /* Footer */
 footer {
     padding: 100px 0;
